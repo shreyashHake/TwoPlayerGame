@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Two Player Game</string>
+    <string name="welcome">🙂 Welcome 🙂</string>
+    <string name="in_two_player_game">In Two Player Game</string>
+    <string name="selection">Choose Your Game</string>
+    <string name="game1">Two player Dice</string>
+    <string name="game2">Simple Dice</string>
+    <string name="roll">Roll</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="winner">Roll To Know Winner</string>
+    <string name="winMsg1">Player 1 is the winner</string>
+    <string name="winMsg2">Player 2 is the winner</string>
+    <string name="winMsg3">It\'s A Tie!</string>
+</resources>
